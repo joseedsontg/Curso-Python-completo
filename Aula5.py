@@ -22,3 +22,7 @@
 
 print(10, -10) #exemplo de int
 print(1.45, 4.37) #exemplo de float
+a = 10 
+b = 1.7
+print(type(a)) #vai printar o tipo do valor a
+print(type(b)) #vai printar o tipo do valor b
