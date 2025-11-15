@@ -1,7 +1,6 @@
 #Seção 1: Lógica de Programação
 #Essa aula é sobre f-strings (formatação de strings), uma introdução breve
 
-#usa-se como base o print que eu usei no exercício da aula 11
 nome = 'Jose Edson'
 altura = 1.80
 peso = 95
